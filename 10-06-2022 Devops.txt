@@ -1,0 +1,58 @@
+DEVOPS ASSIGNMENT 10-06-2022
+-----------------------------------------
+1. What is encryption? 
+
+ANS-Encryption is the method by which information is converted into secret code that hides the information's true meaning.
+The two main kinds of encryption are symmetric encryption and asymmetric encryption.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+2. What is decryption?
+
+ANS- The conversion of encrypted data into its original form is called Decryption.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+3. What is SSL, http, https? 
+
+ANS- 1.(HTTPS)-Hypertext Transfer Protocol Secure is a protocol that secures communication and data transfer between a user's web browser and a website.
+     2.(HTTP)- HyperText Transfer Protocol, standard application-level protocol used for exchanging files on the World Wide Web.
+     3.(SSL)-Secure Sockets Layer is a protocol for securing communication on the Internet.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+4. What are network packets?.
+
+ANS-A network packet is a small amount of data sent over Transmission Control Protocol/Internet Protocol (TCP/IP) networks.
+The packet size is around 1.5 kilobytes for Ethernet and 64 KB for IP payloads.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+5. What are public and private ip?
+
+ANS- 1.Private IP address is used with a local network
+     2.Public IP address is used outside the network. 
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+6.what is internet?
+
+ANS-The Internet, sometimes called simply "the Net," is a worldwide system of computer networks.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+7. What is Horizontal Scaling?
+
+ANS-Horizontal scaling means by adding more machines to your pool of resources (also described as “scaling out”).
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+8. What is vertical Scaling?
+
+ANS-vertical scaling means by adding more power (e.g. CPU, RAM) to an existing machine (also described as “scaling up”).
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+9. What do you mean by HA?
+ 
+ANS-High availability (HA) is the ability of a system to operate continuously without failing for a designated period of time. 
+    high availability cluster--load balancer--internet--application client(end user).
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+10. What are the types of HA explain each one of them?
+
+ANS-1.Active-Active-Access to the resources of all your servers during normal operation.
+    2.Active-Passive-The backup server only sees action during failover.
+------------------------------------------------------------------------------------------------------------------------------------------------------------ 
+11. What are the different types of environments disucssed during the class?
+
+ANS-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+12.https://www.youtube.com/watch?v=o7-IuYS0iSE
+ 
+ANS-see the video
