@@ -1,0 +1,24 @@
+13th Jun 2022 DEVOPS
+----------------------------------------------------------------------------------------------------------------------------------------------------
+1. What do you mean by CI/CD?
+
+ANS-1.CI stand for continuous integration- BUILD,TEST,MERGE.               |
+    2.CD stand for continuous delivery-AUTOMATICALLY RELEASE TO REPOSITORY.|PIPELINE
+    3.CD stand for continuous deployment-AUTOMATICALLY DEPLOY TOPRODUCTION.|
+------------------------------------------------------------------------------------------------------------------------------------------------------
+2.What are Jar, War and EAR files? 
+
+ANS- 1.JAR file stands for Java Archive- It's a file format based on the popular ZIP file format and is used for aggregating many files into one.
+     2. WAR file stands for Web Application Resource or Web Application Archive-allows testing and deploying web applications .  
+     3.EAR stands for Enterprise Application Archive-it is a compressed file that contains the libraries, enterprise beans,
+        and JAR files that the application requires for deployment.
+------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+3.What is compiling of code?
+
+ANS-Compiling is the transformation from Source Code (human readable) into machine code (computer executable). A compiler is a program.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+4. What do you mean by deployment?
+
+ANS-it is all of the activities that make a software system available for use.1. install software 2.customize local configuration files a)password
+    b) remotes endpoints.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
