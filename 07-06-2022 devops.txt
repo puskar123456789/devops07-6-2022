@@ -1,0 +1,49 @@
+ Q-SPIDER  DATE (7th June 2022)
+-------------------------------------------------------------------------------------------------------------------------------------
+
+DEVELOPMENT(DEV) AND OPERATIONS(OPS) DEVOPS
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Assignment:-
+----------------------------------------------------------------------------------------------------------------------------------------
+1. What is DevOps?
+
+ANS- A compound of development (Dev) and operations (Ops), DevOps is the union of people, process and 
+technology to continually provide value to customers.
+------------------------------------------------------------------------------------------------------------------------------------------
+2. Who are all the stakeholders in Development teams? 
+
+ANS- Architect,Business representatives,Customers,Product Owners,Projects managers,Quality Assurance(QA),Testers and Analyst suppliers.
+------------------------------------------------------------------------------------------------------------------------------------------
+3. Who are all the stakeholders in Operation teams?
+
+ANS- Information security professionals,Systems engineers,System administrators,IT operations engineers,release engineers,
+database administrators (DBAS),networks engineers,support professionals,third party vendors and suppiler
+-------------------------------------------------------------------------------------------------------------------------------------------
+4. What is Information technology?
+
+ANS- Information technology(IT) is the use of computer systems or devices to access information.
+-------------------------------------------------------------------------------------------------------------------------------------------
+5. What is a software?
+
+ANS-Software is used to control a computer.
+   Examples-quicksbooks,adobe acrobat,google chrome,microsoft word etc.
+-------------------------------------------------------------------------------------------------------------------------------------------
+6.Types of Softwares, define them and share few examples?
+
+ANS- There are two types software. 1.System software 2.Application software
+1.System software:-
+programs that controls the  operations of the computer and its devices. eg-android,Mac operating systems,Ms windows etc. 
+2.Application software:-
+programs that performs specific tasks for users.eg-word processor,games,media players etc.
+--------------------------------------------------------------------------------------------------------------------------------------------
+7. What is a program? 
+
+ANS-A set of instructions that a computer follows in orders to performs a particular task.
+--------------------------------------------------------------------------------------------------------------------------------------------- 
+8. What is a computer? 
+
+ANS-A computer is an electronic device that manipulates information,or data.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+  
