@@ -1,0 +1,76 @@
+DEVOPS DATES -08-JUNE-2022 ASSIGNMET
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+1. What is Computer network?
+
+ANS-A goup of computers which are connected to each other.
+characteristics-Resource saving,communicaion speed ,Backup,scalability,reliability,software and hadware sharing,security.
+network devices -hub,switch,bridge,gateway,modem,router,repeater etc. 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+2. What are the different types of Computer Network? Define each one of them?
+
+ANS-Network types -1. pan(personal area network),range-10m,uses-home for personal use
+                   2.lan(local area network),range-150m,use-office,building
+                   3.man(metropolitan area network),range-50km,uses-within city eg-hospital,school,,college,factory etc.
+                   4.wan(worlwide area network),range-not fixed ,uses-for countries or all around world.eg=intrnet. 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+3. What are Swithces, Routers,hub and Mondems? Highlight the differences between each one of them.
+
+ANS-1.switches-transmits data from one device to another in from of frames .
+    2.Router-transmits data from one network to another in from of packet.
+    3.hub-transmits data from one device to another in fron of binary bits.
+    4.mondems-modulating-demodulating send traffic from one point to another point without further manipulation.
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+4. What is an IP address?
+
+ANS-IP address stands for internet protocal address-the coputers to send and receive information.
+(unique number which is provided to each an every devices.)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+5. What are IPV4 and IPV6? Explain with an example.
+ 
+ANS-IPV4- 1.32 bits 2.around 4 billion  unique ip address are generated (232) 3. range- 0 to 255 4.eg-192.255.108.253 5.it consists 4 octets each has 8 bits 
+     6. a numeric address separated by .(DOT) 7. total five classes
+    IPV6- 1.128 bits 2.340 trillion unique ip address are generated (2128) 3. range- 0 to FFFF(65535) 4.eg-2001:DB8:1904:FB83:1800:1751:CHBA:0
+          5. 8 octates each has 16 bits 6.aphanumeric number seperated by colon (:) 7.does not have any class
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+     
+6. What is Client Server ?
+ 
+ANS-All the application are istalled and can be accessed by anyone(high configuration )eg-facebbok,whatsapp,instagram,youtube,olx etc.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+7. What is a Web server? 
+
+ANS-Any application which is opened through a browser is known as web server. eg-facebook,wiki,youtube ,apache,tomcat,jboss,etc
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+8. What is an Application Server?
+
+ANS-Is a list of program which helps us to performs a particular tasks eg-whatsapp, ms-office,web-browser,facebook etc.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+9. What is middleware? 
+
+ANS-Middleware is software  which lies between an operating system and the application running on it.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+10. What is a static page and a dynamic page?
+
+ANS-1.static page-Resources getting generated even before the request is called as static page eg-wikipedia
+    2.Dynamic page-Resources getting generated  at the time of requested is called as dynamic page eg- internet banking.
+----------------------------------------------------------------------------------------------------------------------------------------------------------- 
+11. What is 2-tier, 3-tier and n-tier architecture?
+
+ANS-1.2-TIER-two layer client tier and database tier 
+    2.3-TIER-three layer client layer ,business layer and data layer
+    3.N-TIER(MULTI-TIER)-N  refers to a numberof tiers or layers are being used like -2 tier,3-tier or 4-tier,etc 
+      it is also called multi -tier architecture.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+12. What is DBMS, what are the types of DBMS? 
+
+ANS-DBMS(database management system) it is software to maintain and manage database 2.query language 3.factor-a.security b. authorization
+ types-1.network dbms 2.hierachy dbms 3.object orient dbms 4. relational dbms
+
+
+
+
