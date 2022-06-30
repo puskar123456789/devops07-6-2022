@@ -1,0 +1,48 @@
+DEVOPS ASSIGNMENT 09-06-2022
+----------------------------------------------- -------------------------------------------------------------------------------------------------------
+1. What is a protocol?
+
+ANS- A set of rules and guidelines for communicating data. types of protocal
+1.Transmission Control Protocol (TCP)
+2.Internet Protocol (IP) 3.User Datagram Protocol (UDP) 3.Post office Protocol (POP)
+4.Simple mail transport Protocol (SMTP) 5.File Transfer Protocol (FTP) 5.Hyper Text Transfer Protocol (HTTP)
+6.Hyper Text Transfer Protocol Secure (HTTPS)
+------------------------------------------------------------------------------------------------------------------------------------------------
+2. Examples of Web server, Application Server and DB server?
+
+ANS-Server-(a piece of software)
+    1.Web server-Server on which your website is hosted.eg- apache,Internet Information Services (IIS) etc.
+    2.Application Server-application server will host business layer eg-Weblogic,Websphere,Glassfish,Tcat Server,Apache Geronimo,JRun etc.
+    3.DB server-Database server w one or more database hosted eg- Oracle, Sql Server, MySql, etc.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+3. What is URL?
+
+ANS- A URL (Uniform Resource Locator) is a unique identifier used to locate a resource on the Internet.eg-http://example.com
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+4. What is URI? 
+
+ANS-Uniform Resource Identifier (URI) a sequence of characters that distinguishes one resource from another. 
+For example, foo://example.com:8042/over/there?name=ferret#nos.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+5. What is ISO and TCP model?
+
+ANS- 1.The full form of TCP/IP is Transmission Control Protocol/ Internet Protocol. it follows a horizontal approach, 
+       allows the connection of hosts over a network.  
+     2.The full form of OSI is Open Systems Interconnection.it follows a vertical approach ,allows the connection of hosts over a network.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6. What is a port? 
+
+ANS-A port is basically an interface between the computer and the output devices like printer, speakers, mouse, etc.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+7. What is an ISP, DNS?
+  
+ANS-1.Domain Name System (DNS)- turns domain names into IP addresses, which allow browsers to get to websites and other internet resources.
+    2.ISP(internet service provider)- that provides access to the Internet to both personal and business customers.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+8. What do you mean by default gateway? 
+
+ANS-The default gateway is the path used to pass information when the device doesn't know where the destination is.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
